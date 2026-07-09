@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Page 1](page-1.md)
+* [06 - Password Cracking](06-password-cracking.md)
 * [05 - Lateral Movement & Shells](05-lateral-movement-and-shells.md)
 * [04 - Post-Exploitation: Windows](04-post-exploitation-windows.md)
 * [03 - Post-Exploitation: Linux](03-post-exploitation-linux.md)
