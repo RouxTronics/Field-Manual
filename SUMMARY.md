@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
+* [07 - Remediation & Reporting](07-remediation-and-reporting.md)
 * [06 - Password Cracking](06-password-cracking.md)
 * [05 - Lateral Movement & Shells](05-lateral-movement-and-shells.md)
 * [04 - Post-Exploitation: Windows](04-post-exploitation-windows.md)
