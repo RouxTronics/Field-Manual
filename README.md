@@ -6,16 +6,16 @@ Format per page: a **cheatsheet table** up top for copy-paste, then a short **wh
 
 ## Phases
 
-| #  | Phase                                                             | Covers                                                           |
-| -- | ----------------------------------------------------------------- | ---------------------------------------------------------------- |
-| 00 | [Pre-Engagement](/broken/pages/Ln1HGi7qDieGnTIRxZgC)              | Scope, ROE, environment setup, tmux                              |
-| 01 | [Reconnaissance](/broken/pages/BgnZPwjFANvKFv5L0458)              | Passive OSINT, active scanning, web/vhost/param enum             |
-| 02 | [Exploitation](/broken/pages/q0PjxfxwdrXSLxHW1rkE)                | Web app attacks, auth attacks, service-specific exploits         |
-| 03 | [Post-Exploitation — Linux](/broken/pages/VwqjTpfUFRAlzpyFKfTK)   | Shell stabilization, situational awareness, privesc              |
-| 04 | [Post-Exploitation — Windows](/broken/pages/rKKUJZOJeN34aVm287kF) | Situational awareness, privesc, AD attacks                       |
-| 05 | [Lateral Movement & Shells](/broken/pages/98uwuZHvCLR78jvmW18Z)   | Pivoting, file transfer, reverse shells, payloads                |
-| 06 | [Password Cracking](/broken/pages/wOIM8qj4EuCzU7TKtgmy)           | Hash ID, hashcat, John                                           |
-| 07 | [Remediation & Reporting](/broken/pages/3pLiPFMrMoR37LDXeLyp)     | Finding structure, severity, report checklist, Obsidian template |
+| #  | Phase                                                          | Covers                                                           |
+| -- | -------------------------------------------------------------- | ---------------------------------------------------------------- |
+| 00 | [Pre-Engagement](00-pre-engagement.md)                         | Scope, ROE, environment setup, tmux                              |
+| 01 | [Reconnaissance](01-reconnaissance.md)                         | Passive OSINT, active scanning, web/vhost/param enum             |
+| 02 | [Exploitation](02-exploitation.md)                             | Web app attacks, auth attacks, service-specific exploits         |
+| 03 | [Post-Exploitation — Linux](03-post-exploitation-linux.md)     | Shell stabilization, situational awareness, privesc              |
+| 04 | [Post-Exploitation — Windows](04-post-exploitation-windows.md) | Situational awareness, privesc, AD attacks                       |
+| 05 | [Lateral Movement & Shells](05-lateral-movement-and-shells.md) | Pivoting, file transfer, reverse shells, payloads                |
+| 06 | [Password Cracking](06-password-cracking.md)                   | Hash ID, hashcat, John                                           |
+| 07 | [Remediation & Reporting](07-remediation-and-reporting.md)     | Finding structure, severity, report checklist, Obsidian template |
 
 ## Conventions
 
